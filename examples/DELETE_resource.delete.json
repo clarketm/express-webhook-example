@@ -1,0 +1,18 @@
+{
+  "hook": {
+    "target": "http://c8daca62.ngrok.io/z2zw7oz3",
+    "event": "contact.deleted",
+    "id": 7
+  },
+  "data": {
+    "model": "crm.contact",
+    "pk": 20,
+    "fields": {
+      "updated": "2018-09-12T19:22:56.245Z",
+      "created": "2018-09-12T19:22:56.245Z",
+      "full_name": "Jane Iannaccone",
+      "user": 4,
+      "email": "jane@example.com"
+    }
+  }
+}

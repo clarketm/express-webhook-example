@@ -1,0 +1,18 @@
+{
+  "hook": {
+    "target": "http://c8daca62.ngrok.io/z2zw7oz3",
+    "event": "contact.created",
+    "id": 5
+  },
+  "data": {
+    "model": "crm.contact",
+    "pk": 23,
+    "fields": {
+      "updated": "2018-09-12T21:02:28.001Z",
+      "created": "2018-09-12T21:02:28.001Z",
+      "full_name": "Joe Bloe",
+      "user": 4,
+      "email": "joe@example.com"
+    }
+  }
+}
